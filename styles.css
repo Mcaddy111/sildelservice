@@ -180,14 +180,14 @@ nav a:hover{
     margin: 20px;
     display: inline-block;
     width: 40%;
-    font-family: cursive;
+    font-family: Arial, helvitica, sans-serif;
 }
 .service-items h3{
     color: rgb(235, 229, 229);
     margin: 20px;
     display: inline-block;
     width: 40%;
-    font-family: cursive;
+    font-family: Arial, helvitica, sans-serif;
 }
 
 .testimonials {
